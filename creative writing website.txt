@@ -1,0 +1,19 @@
+creative writing website:
+
+homepage/showcase[default page]:
+  .web reader of newsleter:
+       .<contents of newsletter go here>
+  .<add email notification if needed>
+
+newsletter download[onclick]:
+  .current newsletter as PDF, format:yyyy-mm-Newsletter.pdf
+
+login: 
+  .admin:{edit,create,delete access to all files} 
+  .user:{view(and download) only} 
+
+about page(per content)[onclick]:
+  .who wrote it
+  .grade
+  .<other info go here>
+
